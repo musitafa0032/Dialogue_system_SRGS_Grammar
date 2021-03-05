@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lab4grammar/static/css/main.b528de9c.chunk.css",
+    "main.js": "/lab4grammar/static/js/main.8169679a.chunk.js",
+    "main.js.map": "/lab4grammar/static/js/main.8169679a.chunk.js.map",
+    "runtime-main.js": "/lab4grammar/static/js/runtime-main.2c0af876.js",
+    "runtime-main.js.map": "/lab4grammar/static/js/runtime-main.2c0af876.js.map",
+    "static/js/2.30209be8.chunk.js": "/lab4grammar/static/js/2.30209be8.chunk.js",
+    "static/js/2.30209be8.chunk.js.map": "/lab4grammar/static/js/2.30209be8.chunk.js.map",
+    "index.html": "/lab4grammar/index.html",
+    "static/css/main.b528de9c.chunk.css.map": "/lab4grammar/static/css/main.b528de9c.chunk.css.map",
+    "static/js/2.30209be8.chunk.js.LICENSE.txt": "/lab4grammar/static/js/2.30209be8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c0af876.js",
+    "static/js/2.30209be8.chunk.js",
+    "static/css/main.b528de9c.chunk.css",
+    "static/js/main.8169679a.chunk.js"
+  ]
+}
